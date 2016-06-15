@@ -12,4 +12,4 @@ Quelques explications :
 - pour se connecter à mysql, j'utilise des constantes IP, USER, PASS, NOM_BASE (les noms sont évocateurs)
 - pour se connecter à sqlite, un nom de fichier suffit, c'est la constante FIC_SQLITE
 
-Ce script est bien utile pour migrer vite d'un sgbd à l'autre mais côté PHP uniquement. Pour la base et ses données, le meilleur outil est celui-ci à mon avis https://github.com/dumblob/mysql2sqlite de @dumblob
+Ce script est bien utile pour migrer vite d'un sgbd à l'autre mais côté PHP uniquement. Pour la base et ses données, le meilleur outil est celui-ci à mon avis https://github.com/dumblob/mysql2sqlite
