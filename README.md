@@ -1,8 +1,6 @@
 # tosqlite
 Couche d'abstraction simple en PHP pour migrer de mysql vers sqlite
 
-Par Matthieu ONFRAY (http://www.onfray.info)
-
 Licence : CC by sa
 
 Utilisation : abstraction SGBD minimaliste pour migrer de mysql vers sqlite (et inversement)
